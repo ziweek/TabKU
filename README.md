@@ -50,7 +50,10 @@ Installing on Android:
 
 ### Windows
 
-If you would like to suggest a new URL to be added to the list, simply click on the "Suggest a URL" button and fill out the form. Our team will review your suggestion and add it to the list if it meets our criteria.
+1. To install this app, download the app.exe file from the release.
+2. Once the file is downloaded, Double-click on the app.exe file to begin the installation process.
+3. Once the installation is complete, You can then launch the app.
+
 
 # Getting Started
 
@@ -93,23 +96,10 @@ Finally, the project utilizes Electron as a webview to create a desktop applicat
 
 
 # Changelog
-* 20230426 - first release for macOS
-
+* 20230426 - first release only for macOS
+* 20230427 - release for macOS, Windows
 
 # Contributions
-
-<p>
-  <a href="https://www.linkedin.com/in/alex-jiuk-kim-42248325a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:alex.jiuk.kim@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
-If you would like to contribute to the Korea University URL Aggregator, please submit a pull request with your changes. I welcome contributions that improve the usability or functionality of the service. If you find any issues or have any suggestions for improvement, please contact me or open an issue. :)
 
 <table>
   <tbody>
@@ -126,6 +116,21 @@ If you would like to contribute to the Korea University URL Aggregator, please s
     </tr>
   </tbody>
 </table>
+
+<p>
+  <a href="https://www.linkedin.com/in/alex-jiuk-kim-42248325a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:alex.jiuk.kim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+If you would like to contribute to the Korea University URL Aggregator, please submit a pull request with your changes. I welcome contributions that improve the usability or functionality of the service. If you find any issues or have any suggestions for improvement, please contact me or open an issue. :)
+
+
 
 # License
 This project is licensed under the MIT License. See the [LICENSE file](https://github.com/ziweek/TabKU/blob/main/LICENSE) for details.
