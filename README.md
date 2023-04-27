@@ -44,13 +44,13 @@ Installing on Android:
 
 ### macOS
 
-1. To install this app, download the app file from the release.
+1. To install this app, download the app file from the [release](https://github.com/ziweek/TabKU/releases).
 2. Once the file is downloaded, drag the app icon to the Applications folder.
 3. You can then launch the app in the Applications folder or from the Launchpad.
 
 ### Windows
 
-1. To install this app, download the app.exe file from the release.
+1. To install this app, download the app.exe file from the [release](https://github.com/ziweek/TabKU/releases).
 2. Once the file is downloaded, Double-click on the app.exe file to begin the installation process.
 3. Once the installation is complete, You can then launch the app.
 
